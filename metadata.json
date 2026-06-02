@@ -1,0 +1,6 @@
+{
+  "name": "NKG - Portal de Jogos",
+  "description": "Portal gamer de jogos com comparador de preços em tempo real, verificador de requisitos de PC, área VIP de perfil customizado, fórum e rede de conquistas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
